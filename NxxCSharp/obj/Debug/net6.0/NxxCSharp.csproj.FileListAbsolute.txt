@@ -1,0 +1,14 @@
+C:\Users\osste\source\repos\Nxx\NxxCSharp\bin\Debug\net6.0\NxxCSharp.exe
+C:\Users\osste\source\repos\Nxx\NxxCSharp\bin\Debug\net6.0\NxxCSharp.deps.json
+C:\Users\osste\source\repos\Nxx\NxxCSharp\bin\Debug\net6.0\NxxCSharp.runtimeconfig.json
+C:\Users\osste\source\repos\Nxx\NxxCSharp\bin\Debug\net6.0\NxxCSharp.dll
+C:\Users\osste\source\repos\Nxx\NxxCSharp\bin\Debug\net6.0\NxxCSharp.pdb
+C:\Users\osste\source\repos\Nxx\NxxCSharp\obj\Debug\net6.0\NxxCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osste\source\repos\Nxx\NxxCSharp\obj\Debug\net6.0\NxxCSharp.AssemblyInfoInputs.cache
+C:\Users\osste\source\repos\Nxx\NxxCSharp\obj\Debug\net6.0\NxxCSharp.AssemblyInfo.cs
+C:\Users\osste\source\repos\Nxx\NxxCSharp\obj\Debug\net6.0\NxxCSharp.csproj.CoreCompileInputs.cache
+C:\Users\osste\source\repos\Nxx\NxxCSharp\obj\Debug\net6.0\NxxCSharp.dll
+C:\Users\osste\source\repos\Nxx\NxxCSharp\obj\Debug\net6.0\refint\NxxCSharp.dll
+C:\Users\osste\source\repos\Nxx\NxxCSharp\obj\Debug\net6.0\NxxCSharp.pdb
+C:\Users\osste\source\repos\Nxx\NxxCSharp\obj\Debug\net6.0\NxxCSharp.genruntimeconfig.cache
+C:\Users\osste\source\repos\Nxx\NxxCSharp\obj\Debug\net6.0\ref\NxxCSharp.dll
